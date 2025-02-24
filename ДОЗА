@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Добро пожаловать!</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Подключаем CSS -->
+</head>
+<body>
+    <div class="potion-effect"></div> <!-- Эффект зелья -->
+    <header>
+        <h1>Добро пожаловать на сайт, который был создан по приколу</h1>
+    </header>
+    <nav>
+        <a href="https://youtube.com/@tyutyusong?si=IFwxOfmM9kbynpAo" target="_blank">YouTube</a>
+        <a href="https://t.me/TyuTyuSONG" target="_blank">Telegram</a>
+        <a href="https://www.tiktok.com/@tyu.tyu.song" target="_blank">Tik Tok</a>
+    </nav>
+    <div class="content">
+        <h2>Песни Morgenshtern</h2>
+        <ul class="song-list">
+            <li>Cadillac - Morgenshtern</li>
+            <li>El Problema - Morgenshtern</li>
+            <li>Durak - Morgenshtern</li>
+            <li>Ice - Morgenshtern</li>
+            <li>Novyj Merin - Morgenshtern</li>
+            <li>Gde tvoi dengi - Morgenshtern</li>
+            <li>Pososi - Morgenshtern</li>
+            <li>Watafuk - Morgenshtern</li>
+            <li>Million - Morgenshtern</li>
+            <li>Doma - Morgenshtern</li>
+            <li>12 - Morgenshtern</li>
+            <li>Kosy - Morgenshtern</li>
+            <li>GTA - Morgenshtern</li>
+            <li>Pablo - Morgenshtern</li>
+            <li>KRISTALL - Morgenshtern</li>
+            <li>Leckiya - Morgenshtern</li>
+            <li>Ya hochu - Morgenshtern</li>
+            <li>Mama ya hochu - Morgenshtern</li>
+            <li>Ya ne znayu - Morgenshtern</li>
+            <li>Ya ustal - Morgenshtern</li>
+        </ul>
+    </div>
+</body>
+</html>
